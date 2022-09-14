@@ -1,0 +1,61 @@
+body {
+    margin: 0%;
+    background-color: #ecede2;
+}
+
+H1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    line-height: 102px;
+    text-decoration: underline 
+
+}
+
+
+.intro {
+    color: black;
+    width: 0px, 8px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: justify;
+    margin-top: -42px;
+}
+
+#people {
+    width: 37%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 50px ;
+}
+
+#cover {
+    width: 25%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 50px ;
+}
+
+.capone{
+    display: inline-block;
+    font-size: 2px;
+    margin-left: 125px;
+    margin-bottom: 150px;
+    color:black;
+    text-align: center;
+}
+
+.captwo{
+    display: inline-block;
+    margin-left: 205px;
+    margin-bottom: 150px;
+    font-size: 2px;
+    color: black;
+}
+
